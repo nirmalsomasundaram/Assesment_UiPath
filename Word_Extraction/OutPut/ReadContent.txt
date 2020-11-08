@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<p>A <b>patient story</b> is an individual's personal account of their healthcare experience as described in their own words. At its simplest, it is a conversation with a <b>patient</b> or someone close to them, such as a relative or carer, which is recorded and transcribed.</p>
+
+<p><b>Patient stories</b> can be used to emphasize why quality improvement initiatives are <b>important</b>, and to help discuss the difficult decisions, personal circumstances, and values that patients bring to health care.</p>
+
+<p><span style="color:red;font-weight:bold">Other Reason:</span><span style="color:green;font-weight:bold,font-size:11px;font-name:Times of Roman">"Hi, I have selected as an RPA Developer for Optum Global Solutions"</span> Etymology. The word patient originally meant 'one who suffers'. This English noun comes from the Latin word patient, the present participle of the deponent verb, patior, meaning 'I am suffering,' and akin to the Greek verb p?s?e?? (= paskhein, to suffer) and its cognate noun p???? (= pathos).</p>
+
+<p>Ensuring <b>patient</b> safety is a national priority, and everyone involved in the healthcare system has a <b>role</b>, including the <b>patient. Patients</b> can help make their healthcare experience safer by becoming active, involved, and informed members of the healthcare team.</p>
+
+</body>
+</html>
